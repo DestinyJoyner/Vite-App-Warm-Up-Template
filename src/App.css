@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: purple;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  padding: 10px;
+  justify-items: center;
+  align-items: center;
+}
+
+.blue {
+  width: 75%;
+  height: 25%;
+  background-color: rgb(35, 17, 196);
+}
+
+.red {
+  width: 75%;
+  height: 25%;
+  background-color: red;
+}
+
+.yellow {
+  width: 75%;
+  height: 25%;
+  background-color: yellow;
+}
+.green {
+  width: 75%;
+  height: 25%;
+  background-color: green;
+}
