@@ -1,0 +1,27 @@
+/* .square-container {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  margin: 10px;
+} */
+
+.square-one {
+  width: 100px;
+  height: 100px;
+  background-color: #cd34db;
+  margin: 10px;
+}
+
+.square-two {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  margin: 10px;
+}
+
+.square-three {
+  width: 100px;
+  height: 100px;
+  background-color: #34db58;
+  margin: 10px;
+}

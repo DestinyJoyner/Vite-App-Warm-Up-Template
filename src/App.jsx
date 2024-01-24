@@ -1,17 +1,12 @@
-import './App.css'
+import "./App.css";
+import SquareComponent from "./Components/SquareComponent";
 
 function App() {
-
   return (
-    <div className='App'>
-      <h1>Hello Dev!</h1>
-     
+    <div className="App">
+      <SquareComponent />
     </div>
-     
-  )
+  );
 }
 
-
-
-
-export default App
+export default App;
