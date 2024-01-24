@@ -1,0 +1,28 @@
+.one {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 100px;
+}
+.two {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 100px;
+    
+}
+.three {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    margin: 100px;
+}
+.one:hover {
+    background-color: yellow;
+}
+.two:hover {
+    background-color: purple;
+}
+.three:hover {
+    background-color: green;
+}

@@ -1,11 +1,13 @@
 import './App.css'
+import Squares from './Components/squares'
+
 
 function App() {
 
   return (
     <div className='App'>
-      <h1>Hello Dev!</h1>
-     
+      <Squares/>
+      
     </div>
      
   )
